@@ -1,0 +1,12 @@
+{
+  ...
+}:
+{
+  hardware = {
+    pulseaudio = {
+      enable = false;
+    };
+  };
+}
+
+
